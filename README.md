@@ -1,9 +1,9 @@
-[! [MasterHead] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fcoding-skills-loading-dk68v8z0hevjpuiv.gif&tbnid=hM7ONxELxP2eDM&vet=1&imgrefurl=https%3A%2F%2Fgifdb.com%2Fcoding&docid=mdVHPyU3lxttxM&w=889&h=500&source=sh%2Fx%2Fim%2Fm1%2F2&kgs=3fc61dc1a9952cf6&shem=abme%2Cssim%2Ctrie )]
+
 
 
 <h1 align="center">Hi 👋, I'm Lexy Micheal</h1>
 <h3 align="center">Programming is cool at night😎</h3>
- <img src="https://images.app.goo.gl/NvbARbyWy9YBxzqF6" alt="there was nothing here i swear....not" />
+ <img align='center' width='130px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" />
 
 
  
