@@ -3,11 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Lexy Micheal</h1>
 <h3 align="center">Programming is cool at night😎</h3>
- <img align='center' width='130px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" />
+ <img align='center' width='500px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" />
 
 
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdyalexis&label=Profile%20views&color=0e75b6&style=flat" alt="nerdyalexis" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nerdyalexis&label=Profile%20views&color=0e75b6&style=flat" alt="nerdyalexis" /> </p>
 
 
 
