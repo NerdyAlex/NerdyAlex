@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Lexy Micheal</h1>
+<h1 align="center">Hi 👋, I'm Lexy</h1>
 <h3 align="center">Programming is cool at night😎</h3>
  <img align='center' width='500px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" />
 
