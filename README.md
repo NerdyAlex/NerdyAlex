@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Front-End Development** (React, TypeScript, Tailwind CSS).  
 - 💬 Ask me about **Python, HTML, JavaScript**—I’d be happy to help!  
 - 📫 How to reach me: **[rich4alexis@gmail.com](mailto:rich4alexis@gmail.com)**  
-- ⚡ Fun fact: **Having a coding buddy can supercharge your progress! 🤩**  
+- ⚡ Fun fact: **Having a coddy buddy is great for your improvement🤩**  
 
 ---
 
