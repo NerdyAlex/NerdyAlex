@@ -5,12 +5,6 @@
 <h3 align="left">Programming is cool at night😎</h3>
  <img align='center' width='500px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" style="visibility:visible" />
 
-
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdyalexis&label=Profile%20views&color=0e75b6&style=flat" alt="nerdyalexis" /> </p>
-
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Airtel Outlet Creation Update Project** and **some other cool projects**
