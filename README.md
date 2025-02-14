@@ -1,17 +1,23 @@
 
 
 
-<h1 align="left">Hi 👋, I'm Lexy</h1>
-<h3 align="left">Programming is cool at night😎</h3>
- <img align='center' width='500px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" style="visibility:visible" />
+ <img align='center' width='400px' height='300px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" style="visibility:visible" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<hr>
+
+<h2 align="left">Hi 👋, I'm Lexy</h2>
+<h3 align="left">Your Cool Programming Buddy 😁</h3>
+
+<h2 align="left">Some Stuff To Know</h2>
+<hr>
 
 - 🔭 I’m currently working on **Airtel Outlet Creation Update Project** and **some other cool projects**
 
 - 🌱 I’m currently learning **Front-end development**
 
 - 💬 Ask me about **Python, HTML, Javascript**
+
+- 📫 How to reach me <a herf="gmail.com">rich4alexis@gmail.com</a>
 
 - ⚡ Fun fact **Having a coddy buddy is great for your improvement🤩**
 
