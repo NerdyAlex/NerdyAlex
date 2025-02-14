@@ -1,15 +1,15 @@
 
 
 
- <img align='center' width='400px' height='300px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" style="visibility:visible" />
+ <img align='center' width='400px' height='600px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" style="visibility:visible" />
+ <p align="left">
+</p>
 
-<hr>
-
-<h2 align="left">Hi 👋, I'm Lexy</h2>
-<h3 align="left">Your Cool Programming Buddy 😁</h3>
+<h1 align="left">Hi 👋, I'm Lexy</h1>
+<h4 align="left">Your Cool Programming Buddy 😁</h4>
 
 <h2 align="left">Some Stuff To Know</h2>
-<hr>
+
 
 - 🔭 I’m currently working on **Airtel Outlet Creation Update Project** and **some other cool projects**
 
