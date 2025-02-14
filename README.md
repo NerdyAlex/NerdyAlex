@@ -1,4 +1,4 @@
- <img align='center' width='400px' height='600px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" style="visibility:visible" />
+ <img align='center' width='350px' height='450px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" style="visibility:visible" />
  
 
 <h1 align="left">Hi 👋, I'm Lexy</h1>
@@ -20,10 +20,12 @@
 
 - ⚡ Fun fact **Having a coddy buddy is great for your improvement🤩**
 
-<p align="left">
-</p>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<hr>
+
 <p align="left" style="padding-right: 15px" > 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
