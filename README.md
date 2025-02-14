@@ -1,19 +1,19 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Lexy</h1>
-<h3 align="center">Programming is cool at night😎</h3>
- <img align='center' width='500px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" />
+<h1 align="left">Hi 👋, I'm Lexy</h1>
+<h3 align="left">Programming is cool at night😎</h3>
+ <img align='center' width='500px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" style="visibility:visible" />
 
 
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nerdyalexis&label=Profile%20views&color=0e75b6&style=flat" alt="nerdyalexis" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdyalexis&label=Profile%20views&color=0e75b6&style=flat" alt="nerdyalexis" /> </p>
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Airtel Outlet Creation Update**
+- 🔭 I’m currently working on **Airtel Outlet Creation Update Project** and **some other cool projects**
 
 - 🌱 I’m currently learning **Front-end development**
 
@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" style="padding-right: 15px" > 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
 </a> 
