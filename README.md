@@ -45,4 +45,11 @@
 
 ---
 
+## 💬 Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
+
+---
+
 🚀 _Let’s build something awesome together!_ 😃✨  
