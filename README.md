@@ -1,13 +1,12 @@
- <img align='center' width='350px' height='450px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" style="visibility:visible" />
+ <img align='center' width='300px' height='400px' src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here i swear....not" style="visibility:visible" />
  
 
 <h1 align="left">Hi 👋, I'm Lexy</h1>
-<hr>
+
 <h4 align="left" padding='15px 0'>Your Cool Programming Buddy 😁</h4>
 
 
 <h2 align="left">Some Stuff To Know</h2>
-<hr>
 
 
 - 🔭 I’m currently working on **Airtel Outlet Creation Update Project** and **some other cool projects**
@@ -20,7 +19,7 @@
 
 - ⚡ Fun fact **Having a coddy buddy is great for your improvement🤩**
 
-<hr>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
