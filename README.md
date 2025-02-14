@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="300px" height="400px" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here I swear....not" />
+  <img width="300px" height="400px" style="visibility:visble" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="there was nothing here I swear....not" />
 </div>
 
 # Hi 👋, I'm Lexy  
