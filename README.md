@@ -3,13 +3,13 @@
  
 
 <h1 align="left">Hi 👋, I'm Lexy</h1>
-<h4 align="left" padding='15px 0'>Your Cool Programming Buddy 😁</h4>
-
-
+<br>
+<h4 align="left" margin='15px 0'>Your Cool Programming Buddy 😁</h4
+<br><br>
 
 
 <h2 align="left">Some Stuff To Know</h2>
-<hr>
+<br>
 
 - 🔭 I’m currently working on **Airtel Outlet Creation Update Project** and **some other cool projects**
 
