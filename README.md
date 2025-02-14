@@ -45,7 +45,7 @@
 
 ---
 
-## 💬 Stay Consistent, Stay in the Flow  
+## 💬 Some Words Of Encouragement 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=600&lines=Code.+Learn.+Repeat.+Stay+in+Flow.;Hard+Work+Pays+Off!+Keep+Going.;Every+Bug+is+Just+a+Puzzle+to+Solve.🚀" />
 </p>
