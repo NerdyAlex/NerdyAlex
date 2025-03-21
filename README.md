@@ -9,7 +9,7 @@
 
 ## 🌟 Some Stuff to Know  
 
-- 🔭 I’m currently working on **Airtel Outlet Creation Update Project** and some other cool projects.  
+- 🔭 I’m currently working on **mastering Django**.  
 - 🌱 Currently learning **Front-End Development** (React, TypeScript, Tailwind CSS).  
 - 💬 Ask me about **Python, HTML, JavaScript**—I’d be happy to help!  
 - 📫 How to reach me: **[rich4alexis@gmail.com](mailto:rich4alexis@gmail.com)**  
@@ -52,4 +52,4 @@
 
 ---
 
-🚀 _Let’s build something awesome together!_ 😃✨  
+🚀 _Let’s build some fun projects together!_ 😃✨  
