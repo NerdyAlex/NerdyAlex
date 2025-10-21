@@ -40,7 +40,11 @@
   </a>  
   <a href="https://tailwindcss.com" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/> 
-  </a>  
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
+</a>
+
 </p>  
 
 ---
