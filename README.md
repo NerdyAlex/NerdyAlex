@@ -10,8 +10,8 @@
 ## 🌟 Some Stuff to Know  
 
 - 🔭 I’m currently working on **mastering Django**.  
-- 🌱 Currently learning **Front-End Development** (React, TypeScript, Tailwind CSS).  
-- 💬 Ask me about **Python, HTML, JavaScript**—I’d be happy to help!  
+- 🌱 Currently learning **Full-Stack Development** (React, Node.js, Tailwind CSS).  
+- 💬 Ask me about **Python, Django, HTML, JavaScript**—I’d be happy to help!  
 - 📫 How to reach me: **[rich4alexis@gmail.com](mailto:rich4alexis@gmail.com)**  
 - ⚡ Fun fact: **Having a coddy buddy is great for your improvement🤩**  
 
@@ -31,9 +31,6 @@
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.typescriptlang.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
   </a>  
   <a href="https://reactjs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
